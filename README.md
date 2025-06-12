@@ -39,7 +39,7 @@ $ npm run dev
 
 👤 **Author**
 
-- GitHub: [@Jebitok-dev](https://github.com/Jebitok-dev)
+- GitHub: [@JYemijosh12](https://github.com/yemijosh12)
 
 ## 🤝 Contributing
 
